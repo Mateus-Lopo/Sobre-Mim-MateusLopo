@@ -34,6 +34,14 @@ Meu grande objetivo é construir coisas que unam **diversão e conhecimento**! �
 - Gosto de trabalhar em grupo
 - Sempre priorizo a organização
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mateus-Lopo/Mateus-Lopo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mateus-Lopo/Mateus-Lopo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mateus-Lopo/Mateus-Lopo/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -44,10 +52,4 @@ Meu grande objetivo é construir coisas que unam **diversão e conhecimento**! �
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mateus-Lopo/Mateus-Lopo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mateus-Lopo/Mateus-Lopo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mateus-Lopo/Mateus-Lopo/output/pacman-contribution-graph.svg">
-</picture>
 
-###
