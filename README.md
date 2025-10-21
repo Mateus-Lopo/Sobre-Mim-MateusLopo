@@ -1,5 +1,6 @@
-# Sobre-Mim-MateusLopo
-# 👋 Olá, eu sou o Mateus Lopo!
-## 🚀 Sobre mim
-Sou desenvolvedor iniciante e apaixonado por tecnologia
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+<h1 aling="center">👋 Olá, eu sou Mateus Lopo</h1>
+<hr>
+<p align="center">
+  🚀 Sou desenvolvedor iniciante | 🖥️ Estou estudando Desenvolvimento de Sistemas<br>
+  💡 Estudante da Etec Fernando Prestes 📚
+</p>
