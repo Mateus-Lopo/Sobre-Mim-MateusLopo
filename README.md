@@ -12,7 +12,7 @@
 ### 🧠 Sobre mim
 
 Sou um desenvolvedor em início de jornada, tenho 17 anos, sou sempre curioso e buscando aprender coisas novas.  
-Atualmente estudo **C#**, **Desenvolvimento Web** e **programação de aplicativos**.  
+Atualmente estudo **C#** e **Desenvolvimento Web**.  
 
 Gosto de criar projetos criativos, como jogos simples e sistemas experimentais 
 Meu grande objetivo é construir coisas que unam **diversão e conhecimento**! 🚀
@@ -21,6 +21,8 @@ Meu grande objetivo é construir coisas que unam **diversão e conhecimento**! �
 - C#, JavaScript, PHP e lógica de programação  
 - Banco de dados como SQL Server e MySQL
 - Aprofundando meus estudo em HTML5, CSS3 e seus frameworks
+
+![Interesse](https://img.shields.io/badge/Interesse-Ciência%20Espacial-darkblue?style=flat-square)
 
 ### 💬 Interesses:
 - 🧠 Inteligência Artificial  
