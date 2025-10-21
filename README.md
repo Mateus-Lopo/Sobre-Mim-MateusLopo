@@ -1,2 +1,4 @@
 # Sobre-Mim-MateusLopo
-Esse README falará melhor sobre mim.
+# 👋 Olá, eu sou o Mateus Lopo!
+## 🚀 Sobre mim
+Sou desenvolvedor iniciante e apaixonado por tecnologia
