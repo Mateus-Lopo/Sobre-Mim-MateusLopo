@@ -22,7 +22,9 @@ Meu grande objetivo é construir coisas que unam **diversão e conhecimento**! �
 - Banco de dados como SQL Server e MySQL
 - Aprofundando meus estudo em HTML5, CSS3 e seus frameworks
 
-![Interesse](https://img.shields.io/badge/Interesse-Desenvolvimento%20Web-darkblue?style=flat-square)
+<img src="https://raw.githubusercontent.com/Mateus-Lopo/Mateus-Lopo/output/snake.svg" alt="Snake animation" />
+
+###
 
 ### 💬 Interesses:
 - 🧠 Inteligência Artificial  
