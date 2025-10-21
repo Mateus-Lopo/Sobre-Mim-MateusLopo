@@ -21,7 +21,7 @@ Meu grande objetivo é construir coisas que unam **diversão e conhecimento**! �
 - C#, JavaScript, PHP e lógica de programação  
 - Banco de dados como SQL Server e MySQL
 - Aprofundando meus estudo em HTML5, CSS3 e seus frameworks
-
+  
 <img src="https://raw.githubusercontent.com/Mateus-Lopo/Mateus-Lopo/output/snake.svg" alt="Snake animation" />
 
 ###
