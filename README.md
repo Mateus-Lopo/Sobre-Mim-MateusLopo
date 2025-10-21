@@ -23,10 +23,12 @@ Meu grande objetivo é construir coisas que unam **diversão e conhecimento**! �
 - Aprofundando meus estudo em HTML5, CSS3 e seus frameworks
 <br clear="both">
 
-<picture>
-  <img alt="pacman contribution graph"
-       src="https://raw.githubusercontent.com/Mateus-Lopo/Sobre-Mim-MateusLopo/main/dist/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <picture>
+    <img alt="Pacman Contribution Graph" 
+         src="https://raw.githubusercontent.com/Mateus-Lopo/Sobre-Mim-MateusLopo/main/dist/pacman-contribution-graph-dark.svg">
+  </picture>
+</p>
 
 ###
 
