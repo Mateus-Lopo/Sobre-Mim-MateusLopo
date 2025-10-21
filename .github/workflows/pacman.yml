@@ -2,7 +2,7 @@ name: Generate Pacman Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"  # roda a cada 12 horas
   workflow_dispatch:
   push:
     branches:
@@ -19,15 +19,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate pacman-contribution-graph.svg
+      - name: Generate Pacman Contribution Graph (Dark)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          theme: dark
 
       - name: Commit and push SVG
         run: |
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          mkdir -p dist
+          mv pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
           git add dist/*
-          git commit -m "Update Pac-Man contribution graph" || echo "No changes to commit"
-          git push
+          git commit -m "Update Pac-Man contribution graph" || echo "No ch
