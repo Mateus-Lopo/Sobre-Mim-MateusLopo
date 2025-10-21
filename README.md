@@ -31,3 +31,8 @@ Meu grande objetivo é construir coisas que unam **diversão e conhecimento**! �
 - Sou uma pessoa que sempre busco aprender coisas novas
 - Gosto de trabalhar em grupo
 - Sempre priorizo a organização
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
