@@ -2,4 +2,4 @@
 # 👋 Olá, eu sou o Mateus Lopo!
 ## 🚀 Sobre mim
 Sou desenvolvedor iniciante e apaixonado por tecnologia
-![GitHub followers](https://img.shields.io/github/followers/MateusLopo?label=Seguidores&style=social)
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
