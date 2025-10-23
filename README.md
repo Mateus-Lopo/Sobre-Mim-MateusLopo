@@ -11,10 +11,7 @@
   💡 Estudante da Etec Fernando Prestes 📚
 </p>
 
-<p align="center">
-  <img alt="Pacman Contribution Graph" 
-       src="https://raw.githubusercontent.com/Mateus-Lopo/Sobre-Mim-MateusLopo/main/dist/pacman-contribution-graph-dark.svg">
-</p>
+
 
 <hr>
 
